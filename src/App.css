@@ -22,17 +22,29 @@
 .reg{
 
 }
+.pad-5{
+    padding:15%;
+}
+.welcome{
+    background-color: #3f51b5;
+    text-align: center;
+    color: #ffffff;
+
+}
+
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  /*display: flex;*/
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+    background-color:#ffffff;
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    
+  }
+
+  
 
 .App-link {
   color: #61dafb;
