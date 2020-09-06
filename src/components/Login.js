@@ -16,14 +16,14 @@ const useStyles = makeStyles((theme) => ({
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
-    width: '40%',
+    width: '100%',
   },
   twetty:{
     width : '8%',
     marginBottom: theme.spacing(5),
   },
   form: {
-    width: '100%', // Fix IE 11 issue.
+    width: '40%', // Fix IE 11 issue.
     marginTop: theme.spacing(1),
   },
   submit: {
